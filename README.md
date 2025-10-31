@@ -1,12 +1,12 @@
 # 💫 Hi 👋, I'm Manav
 **A passionate Web Developer **
 
-Email Me 👉 ✉️ **guptamanav236@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **manavgupta236@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 - 🔭 **I’m currently working on:** Healthcare Project
 - 🌱 **I’m currently learning:** pytorch Ml and Deep Learning
 - 🤔 **I’m looking for help with:** Model Training in Healthcare Project Where anyone can upload their medical test result and find whether your test results are positive or negative
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** guptamanav236@gmail.com
+- 📫 **How to reach me:** manavgupta236@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 - 
 ## 🌐 Socials:
