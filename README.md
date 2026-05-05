@@ -1,13 +1,13 @@
 # 💫 Hi 👋, I'm Manav
-**A passionate Web Developer **
+**A passionate Web App AI Developer **
 
 Email Me 👉 ✉️ **manavgupta236@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-- 🔭 **I’m currently working on:** Healthcare Project
-- 🌱 **I’m currently learning:** pytorch Ml and Deep Learning
-- 🤔 **I’m looking for help with:** Model Training in Healthcare Project Where anyone can upload their medical test result and find whether your test results are positive or negative
-- 💬 **Ask me about:** Collaboration, Tech Support
+
+- 🌱 **I’m currently learning:** pytorch Ml and Deep Learnin
+- 💬 **Ask me about:** Collaboration, Tech Support ,Open for freelance projects
 - 📫 **How to reach me:** manavgupta236@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+-     
 - 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manavgupta965) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guptamanav236@gmail.com) 
